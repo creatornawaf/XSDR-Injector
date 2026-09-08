@@ -9,7 +9,9 @@ You Can See The Codes in Python.
 
 Join Our Discord Server [XSDR Discord](https://discord.gg/dBXUjJfDuz)
 
-https://github.com/user-attachments/assets/56ae8439-786e-4a61-844e-c5d440ce5a88
+
+https://github.com/user-attachments/assets/84c9c2fd-b209-4e75-96f8-62df26d3455b
+
 
 
 
