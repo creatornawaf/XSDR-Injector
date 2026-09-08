@@ -1,3 +1,4 @@
+
 # XSDR Injector
 
 Is Free Fast Flag Injector.
@@ -8,5 +9,8 @@ You Can See The Codes in Python.
 
 Join Our Discord Server [XSDR Discord](https://discord.gg/dBXUjJfDuz)
 
-<img width="1240" height="907" alt="image" src="https://github.com/user-attachments/assets/00bffed0-bfe8-4186-909d-a569c2a9edf6" />
+https://github.com/user-attachments/assets/56ae8439-786e-4a61-844e-c5d440ce5a88
+
+
+
 
