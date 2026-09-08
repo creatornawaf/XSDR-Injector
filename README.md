@@ -11,8 +11,9 @@ Join Our Discord Server [XSDR Discord](https://discord.gg/dBXUjJfDuz)
 
 
 
-<img width="974" height="503" alt="Video" src="https://github.com/user-attachments/assets/84c9c2fd-b209-4e75-96f8-62df26d3455b" />
-
+<video width="974" height="503" controls>
+    <source src="https://github.com/user-attachments/assets/84c9c2fd-b209-4e75-96f8-62df26d3455b" type="video/mp4">
+</video>
 
 <img width="974" height="503" alt="image" src="https://github.com/user-attachments/assets/ff0aea62-f301-4aa9-9348-1e2e2f880fbe" />
 
