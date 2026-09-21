@@ -4,9 +4,8 @@
 ## KEY FEATURES
 - ### fast flags
 - ### physics speed support
-- ### external menu (currently only for the exe version)
 - ### simple and sleek UI
-- ### open source (partially)
+- ### open source
 - ### free
 
 | Application                                                    | Detection | Realtime editing | Presets | Methods | custom offsets
