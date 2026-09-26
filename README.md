@@ -11,6 +11,5 @@
 | Application                                                    | Detection | Realtime editing | Presets | Methods | custom offsets
 | --------                                                       | --------   | --------|------|------    |------|
 | [XSDR Injector](https://github.com/creatornawaf/XSDR-Injector) | 4/10       | ✅      |         ❌     | offsets  | ✅
-| --------                                                       | --------   | --------|------|------    |------|
 | [XSDR Imgui](https://www.roblox.com/games/112432474581935/Purchase-XSDR-Imgui) | 4/10       | ✅      |         ✅     | offsets  | ✅
 ### [support us using this link.](https://discord.gg/jtTeUgAT2f)
